@@ -44,7 +44,7 @@ const Navbar = ({ authenticate, setAuthenticate }) => {
 
       <div className="nav-logo">
         <Link to="/">
-          <img width={100} src="https://logos-world.net/wp-content/uploads/2020/04/HM-Logo-1999-present.jpg" />
+          <img width={100} src="https://logos-world.net/wp-content/uploads/2020/04/HM-Logo-1999-present.jpg" alt=""/>
         </Link>
       </div>
       <div class="nav-menu-area">
